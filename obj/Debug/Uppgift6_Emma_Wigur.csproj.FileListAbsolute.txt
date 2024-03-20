@@ -1,0 +1,36 @@
+C:\Users\datahaxx\Desktop\Uppgift6_Emma_Wigur\bin\Debug\Uppgift6_Emma_Wigur.exe.config
+C:\Users\datahaxx\Desktop\Uppgift6_Emma_Wigur\bin\Debug\Uppgift6_Emma_Wigur.exe
+C:\Users\datahaxx\Desktop\Uppgift6_Emma_Wigur\bin\Debug\Uppgift6_Emma_Wigur.pdb
+C:\Users\datahaxx\Desktop\Uppgift6_Emma_Wigur\obj\Debug\Uppgift6_Emma_Wigur.csproj.AssemblyReference.cache
+C:\Users\datahaxx\Desktop\Uppgift6_Emma_Wigur\obj\Debug\Uppgift6_Emma_Wigur.csproj.CoreCompileInputs.cache
+C:\Users\datahaxx\Desktop\Uppgift6_Emma_Wigur\obj\Debug\Uppgift6_Emma_Wigur.exe
+C:\Users\datahaxx\Desktop\Uppgift6_Emma_Wigur\obj\Debug\Uppgift6_Emma_Wigur.pdb
+C:\Users\datahaxx\Desktop\Uppgift6_Emma_Wigur\obj\Debug\Uppgift6_Emma_Wigur.csproj.SuggestedBindingRedirects.cache
+C:\Users\datahaxx\Desktop\emma_wigur\Programmering grund\Uppgift6_Emma_Wigur\bin\Debug\Uppgift6_Emma_Wigur.exe.config
+C:\Users\datahaxx\Desktop\emma_wigur\Programmering grund\Uppgift6_Emma_Wigur\bin\Debug\Uppgift6_Emma_Wigur.exe
+C:\Users\datahaxx\Desktop\emma_wigur\Programmering grund\Uppgift6_Emma_Wigur\bin\Debug\Uppgift6_Emma_Wigur.pdb
+C:\Users\datahaxx\Desktop\emma_wigur\Programmering grund\Uppgift6_Emma_Wigur\obj\Debug\Uppgift6_Emma_Wigur.csproj.AssemblyReference.cache
+C:\Users\datahaxx\Desktop\emma_wigur\Programmering grund\Uppgift6_Emma_Wigur\obj\Debug\Uppgift6_Emma_Wigur.csproj.CoreCompileInputs.cache
+C:\Users\datahaxx\Desktop\emma_wigur\Programmering grund\Uppgift6_Emma_Wigur\obj\Debug\Uppgift6_Emma_Wigur.exe
+C:\Users\datahaxx\Desktop\emma_wigur\Programmering grund\Uppgift6_Emma_Wigur\obj\Debug\Uppgift6_Emma_Wigur.pdb
+C:\Users\ewigu\OneDrive\Skrivbord\Uppgift6_Emma_Wigur\bin\Debug\Uppgift6_Emma_Wigur.exe.config
+C:\Users\ewigu\OneDrive\Skrivbord\Uppgift6_Emma_Wigur\bin\Debug\Uppgift6_Emma_Wigur.exe
+C:\Users\ewigu\OneDrive\Skrivbord\Uppgift6_Emma_Wigur\bin\Debug\Uppgift6_Emma_Wigur.pdb
+C:\Users\ewigu\OneDrive\Skrivbord\Uppgift6_Emma_Wigur\obj\Debug\Uppgift6_Emma_Wigur.csproj.AssemblyReference.cache
+C:\Users\ewigu\OneDrive\Skrivbord\Uppgift6_Emma_Wigur\obj\Debug\Uppgift6_Emma_Wigur.csproj.CoreCompileInputs.cache
+C:\Users\ewigu\OneDrive\Skrivbord\Uppgift6_Emma_Wigur\obj\Debug\Uppgift6_Emma_Wigur.exe
+C:\Users\ewigu\OneDrive\Skrivbord\Uppgift6_Emma_Wigur\obj\Debug\Uppgift6_Emma_Wigur.pdb
+C:\Users\ewigu\OneDrive\Skrivbord\C#\Uppgift6_Emma_Wigur\bin\Debug\Uppgift6_Emma_Wigur.exe.config
+C:\Users\ewigu\OneDrive\Skrivbord\C#\Uppgift6_Emma_Wigur\bin\Debug\Uppgift6_Emma_Wigur.exe
+C:\Users\ewigu\OneDrive\Skrivbord\C#\Uppgift6_Emma_Wigur\bin\Debug\Uppgift6_Emma_Wigur.pdb
+C:\Users\ewigu\OneDrive\Skrivbord\C#\Uppgift6_Emma_Wigur\obj\Debug\Uppgift6_Emma_Wigur.csproj.AssemblyReference.cache
+C:\Users\ewigu\OneDrive\Skrivbord\C#\Uppgift6_Emma_Wigur\obj\Debug\Uppgift6_Emma_Wigur.csproj.CoreCompileInputs.cache
+C:\Users\ewigu\OneDrive\Skrivbord\C#\Uppgift6_Emma_Wigur\obj\Debug\Uppgift6_Emma_Wigur.exe
+C:\Users\ewigu\OneDrive\Skrivbord\C#\Uppgift6_Emma_Wigur\obj\Debug\Uppgift6_Emma_Wigur.pdb
+C:\Users\ewigu\OneDrive\Skrivbord\Programmering_VT24\Adventure_Game\bin\Debug\Uppgift6_Emma_Wigur.exe.config
+C:\Users\ewigu\OneDrive\Skrivbord\Programmering_VT24\Adventure_Game\bin\Debug\Uppgift6_Emma_Wigur.exe
+C:\Users\ewigu\OneDrive\Skrivbord\Programmering_VT24\Adventure_Game\bin\Debug\Uppgift6_Emma_Wigur.pdb
+C:\Users\ewigu\OneDrive\Skrivbord\Programmering_VT24\Adventure_Game\obj\Debug\Uppgift6_Emma_Wigur.csproj.AssemblyReference.cache
+C:\Users\ewigu\OneDrive\Skrivbord\Programmering_VT24\Adventure_Game\obj\Debug\Uppgift6_Emma_Wigur.csproj.CoreCompileInputs.cache
+C:\Users\ewigu\OneDrive\Skrivbord\Programmering_VT24\Adventure_Game\obj\Debug\Uppgift6_Emma_Wigur.exe
+C:\Users\ewigu\OneDrive\Skrivbord\Programmering_VT24\Adventure_Game\obj\Debug\Uppgift6_Emma_Wigur.pdb
